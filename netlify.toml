@@ -3,5 +3,9 @@
   to = "/pages/about.html"
   status = 200
 
+[[redirects]]
+  from = "/contact"
+  to = "/pages/contact.html"
+  status = 200
 
 
