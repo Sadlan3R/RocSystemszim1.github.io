@@ -25,6 +25,11 @@ ul {
     unicode-bidi: isolate;
 }
 
+.header_welcome img{
+    max-width: 600px;
+    width: 400px;
+}
+
 .five {
     width: 45%;
 }
