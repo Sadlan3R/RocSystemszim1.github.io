@@ -2,6 +2,9 @@
     html {
         font-size: 60%;
     }
+    home_pic {
+        margin-bottom: 1.5px;
+    }
 }
 
 @media only screen and (min-width: 400px) and (max-width: 600px) {
@@ -45,7 +48,7 @@
     }
     .home_pic {
         position: relative;
-        bottom: -20px;
+        margin-bottom: 0px;
     }
     .home_pic img{
         max-width: 447px;
