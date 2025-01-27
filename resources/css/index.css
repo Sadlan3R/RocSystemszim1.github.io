@@ -565,6 +565,7 @@ p.bigger {
     font-family: Anton;
     font-size: 25px;
     letter-spacing: 1px;
+    line-height: 2;
     color: #000000;
 }
 
