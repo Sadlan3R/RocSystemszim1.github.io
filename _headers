@@ -19,7 +19,7 @@ X-Content-Type-Options: nosniff
 
 Content-Security-Policy: default-src 'self'; 
   script-src 'self'; 
-  style-src 'self'; 
-  font-src 'self' https://fonts.googleapis.com; 
+  style-src 'self' https://fonts.googleapis.com/css2?family=Anton&family=DM+Serif+Text:ital@0;1&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,900;1,900&display=swap; 
+  font-src 'self' https://fonts.googleapis.com/css2?family=Anton&family=DM+Serif+Text:ital@0;1&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Roboto:ital,wght@0,900;1,900&display=swap; 
   img-src 'self' data:; 
   object-src 'none';
