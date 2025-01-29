@@ -14,9 +14,8 @@ X-Frame-Options: DENY
 X-Content-Type-Options: nosniff
 
 /*
-  Content-Security-Policy Header
+  Content-Security-Policy with style-src-elem
 */
-
 Content-Security-Policy: default-src 'self'; 
   script-src 'self'; 
   style-src 'self' https://fonts.googleapis.com;
