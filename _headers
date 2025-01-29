@@ -12,3 +12,9 @@ X-Frame-Options: DENY
   X-Content-Type-Options Header
 */
 X-Content-Type-Options: nosniff
+
+/*
+  Content-Security-Policy Header
+*/
+
+Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; object-src 'none';
