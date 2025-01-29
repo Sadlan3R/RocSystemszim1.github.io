@@ -2,3 +2,8 @@
   Referrer-Policy Header
 */
 Referrer-Policy: strict-origin-when-cross-origin
+
+/*
+  x-Fame-Options Header
+*/
+  X-Frame-Options: DENY
