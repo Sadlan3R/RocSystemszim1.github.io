@@ -6,4 +6,9 @@ Referrer-Policy: strict-origin-when-cross-origin
 /*
   x-Fame-Options Header
 */
-  X-Frame-Options: DENY
+X-Frame-Options: DENY
+
+/*
+  X-Content-Type-Options Header
+*/
+X-Content-Type-Options: nosniff
