@@ -112,9 +112,18 @@
 }
 
 @media only screen and (min-width: 0px) and (max-width: 880px) {
+
     a.mobilemenubutton {
         margin-top: 15px;
         display: block !important;
+    }
+
+    .mobileheader.active {
+        display: block;
+    }
+
+    .mobilenav.active {
+        display: block;
     }
 
     header nav {
@@ -126,3 +135,17 @@
     }
 }
 
+@media only screen and (min-width: 880px) {
+    
+    .mobile {
+        display: none;
+    }
+
+    .mobileheader {
+        display: none;
+    }
+
+    .mobilenav {
+        display: none;
+    }
+}
