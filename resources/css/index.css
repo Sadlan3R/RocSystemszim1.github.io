@@ -249,11 +249,6 @@ header nav a:hover {
     }
 }
 
-header nav .icon:hover {
-    scale: 1.2;
-
-}
-
 /* Mobile Nav Css */
 
 .mobileheader {
