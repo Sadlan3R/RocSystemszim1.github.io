@@ -244,6 +244,9 @@ header nav a {
 header nav a:hover {
     font-size: 110%;
     font-weight: 700;
+    svg {
+	scale: 1.2;
+    }
 }
 
 header nav .icon:hover {
